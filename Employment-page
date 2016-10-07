@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--the meta below is to add extra charictars charset being the set of charectars -->
+		<meta charset="utf-8"/>
+		<style>
+body	    {background-color:yellow } 
+header	    {color:black} 
+header      {font-size: 30px;}
+.paragraph1 {
+    font-size: 18px;
+  }
+	</style>
+	</head>
+	
+
+	<body >
+	    
+	    <center>
+	    
+		<header> 
+		<b>
+	<u>Employment history </u>
+	</b>
+	<br/> <br><br/><br>
+
+		</header>
+		
+	<p class="paragraph1"> 
+	  <b> 	Employment page</b></p>
+	  <u><p> NHS divitional anylist team</p> </u>
+	  working on a Microsoft Access development project with in a team and producing reports in Excel
+     <u><p> Tutoring mathmatics</p> </u>
+    
+    Working part time tutoring mathematics.
+    
+    <u> <p> Brampton TMT</p></u>
+    
+    I was working full time in the warehouse which involved stock checks, packaging orders, answering the phone, producing labels, sorting and performing checks on goods, using Oracle and Telnet and assisting during deliveries. I was frequently using Excel for ageing reports, pre alerts and pristine checks, using features such as Vlookups, conditional formatting, keyboard shortcuts and pivot tables. It also included a manual handling safety talk.
+    
+    <u><p> Aberystwyth finance office</p></u>
+    
+    I was on a scheme called Aber Forward, run by Aberystwyth University, where I was working  full-time in Aberystwyth University’s Finance Office as a Finance Assistant, primarily as part of the Accounts Receivable team. Temporary Contract.
+Duties included producing a financial report in Excel on the university’s revenue and spending for the Interim Director of Finance , bank statement entries and matching on ABW Agresso, submitting “Change of Circumstances” for students, contacting university staff so I could update records.
+This employer reference (available as required) highlighted excellent standard of IT skills though , pleasant and easy to get on with while always well presented, able to analyse, evaluate and problem solve, an effective contributor in a professional environment, proficient in the use of a range of technologies , committed to further learning and development, fitted well into the team and a willing contributor, carried out all tasks diligently and timely and easily adapted to a variety of tasks with an organised and methodical approach.
+
+    
+	</center>
+	<br>    </br>
+	<br>	</br>
+    To go back to the <a href="https://56029ef1025ae9e620fdae8f753eb5bcf02747d5-www.googledrive.com/host/0B4g8K_Y-8oPeYk1Jbm5Dc01FUUE">home </a> page.
+	</body>
+</html>
